@@ -1,4 +1,4 @@
-# Single-Link-List-Reverse
+# Single-Linked-List-Reverse
 Reversal of single linked list
 
 jsfiddle: https://jsfiddle.net/xn2swocj/
